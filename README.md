@@ -1,7 +1,7 @@
 ### Ola eu sou o HigorAndrade0 👋
 - 🔭 Hoje trabalho como estagiario em uma empresa frigorifica
 - 🌱 estudando engenharia de softaware e java
-- 💬 tenho 17 anos
+- 💬 tenho 18 anos
 -  📫 contate-me no email:Higorandrade836@gmail.com
 - 😄 Pronouns: ele/dele
 
