@@ -1,5 +1,5 @@
 ### Ola eu sou o HigorAndrade0 👋
-- 🔭 Hoje trabalho como estagiario em uma empresa frigorifica
+- 🔭 Hoje trabalho como aprendiz em uma empresa de construção civil
 - 🌱 estudando engenharia de softaware e java
 - 💬 tenho 18 anos
 -  📫 contate-me no email:Higorandrade836@gmail.com
