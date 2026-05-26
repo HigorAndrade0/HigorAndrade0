@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalho como aprendiz em uma empresa de construção civil
+- 🔭 Atualmente trabalho como axuliar de T.i no hc de maringá
 - 🌱 Estudando Engenharia de Software e Java
 - 📚 Aprendendo desenvolvimento web e banco de dados
 - 💡 Interesse em back-end, front-end e tecnologia em geral
